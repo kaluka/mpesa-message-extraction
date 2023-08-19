@@ -39,7 +39,7 @@ M-Pesa is a popular mobile money transfer and payment service used in various re
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/mpesa-messages-analysis.git
+   git clone https://github.com/kaluka/mpesa-message-extraction.git
 
 
 
